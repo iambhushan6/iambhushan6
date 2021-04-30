@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iambhushan6
-- 👀 I’m interested in Django backend developement
+- 👀 I’m interested in Python and Django developement
 - 🌱 I’m currently learning databases design and javascript
 - 💞️ I’m looking to collaborate on Webapp based projects
 - 📫 How to reach me bhushan.lokhande19@vit.edu Linkedin? =https://www.linkedin.com/iambhushan/
