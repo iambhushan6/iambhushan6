@@ -11,7 +11,7 @@
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambhushan6&theme=radical&show_icons=true&hide=contribs)
 
 <a href="https://iambhushan.netlify.app/">
-  <img target="_blank" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan&theme=tokyonight&show_icons=true&layout=compact" />
+  <img target="new" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan&theme=tokyonight&show_icons=true&layout=compact" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
