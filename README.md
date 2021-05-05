@@ -10,14 +10,13 @@
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambhushan6&theme=radical&show_icons=true&hide=contribs)
 
-[![Bhushan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan&theme=radical&show_icons=true)](https://github.com/iambhushan6/)
-
+<a href="https://github.com/iambhushan6/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan&theme=tokyonight&show_icons=true&layout=compact" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhushan6&layout=compact&theme=radical&show_icons=true" />
 </a>
-<a href="https://github.com/iambhushan6/Q-Less">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iambhushan6&repo=Q-Less&theme=radical&show_icons=true)" />
-</a>
+
 
 <!---
 iambhushan6/iambhushan6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
