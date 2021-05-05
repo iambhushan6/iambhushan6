@@ -6,7 +6,7 @@
 - I love to make end to end products. A life-long learner keen to leverage his skills with demand.
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/typescript.svg" />
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambhushan6&theme=radical&show_icons=true&hide=contribs)
 
