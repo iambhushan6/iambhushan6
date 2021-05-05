@@ -10,17 +10,13 @@
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambhushan6&theme=radical&show_icons=true&hide=contribs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iambhushan6&repo=Q-Less&theme=radical&show_icons=true)](https://github.com/iambhushan6/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambhushan6&layout=compact&theme=radical&show_icons=true)](https://github.com/iambhushan6)
-
-[![Bhushan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan)](https://github.com/iambhushan6/)
+[![Bhushan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan?&theme=radical&show_icons=true)](https://github.com/iambhushan6/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhushan6&layout=compact&theme=radical&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/iambhushan6/Q-Less">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iambhushan6&repo=Q-Less&theme=radical&show_icons=true)" />
 </a>
 
 <!---
