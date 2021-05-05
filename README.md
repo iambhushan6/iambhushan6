@@ -13,10 +13,14 @@
 <a href="https://github.com/iambhushan6/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iambhushan&theme=tokyonight&show_icons=true&layout=compact" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambhushan6&layout=compact&theme=radical&show_icons=true" />
 </a>
 
+<a target="_blank" href="https://iambhushan.netlify.app/">
+  <img align="center" src="https://iambhushan.netlify.app/" />
+</a>
 
 <!---
 iambhushan6/iambhushan6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
