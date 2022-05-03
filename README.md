@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @iambhushan6
 - 👀 I’m interested in Python and Django developement
-- 🌱 I’m currently learning databases design and javascript
 - 💞️ I’m looking to collaborate on Webapp based projects
 - 📫 How to reach me bhushan.lokhande19@vit.edu Linkedin? =https://www.linkedin.com/iambhushan/
-- I love to make end to end products. A life-long learner keen to leverage his skills with demand.
+- I love to make end to end products.
 
 <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 <img align="center" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/typescript.svg" />
