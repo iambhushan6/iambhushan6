@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iambhushan6
 - 🖥 Currently working as SDE at Dukaan.
-- 👀 I’m interested in Backend and Python-Django developement
-- 📫 How to reach me bhushan.lokhande19@vit.edu ?Linkedin=https://www.linkedin.com/iambhushan/
-- I love to make end to end products.
+- 👀 I’m interested in Backend engineering and system design.
+- 📫 You can reach me at bslokhande6@gmail.com ? Linkedin=https://www.linkedin.com/iambhushan/
+- I love to make end to end software products.
 
 <img align="center" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 <img align="center" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/typescript.svg" />
